@@ -1,4 +1,5 @@
 ### Hi there 👋
+Este es mi primer repositorio, estoy aprendiendo git y github
 
 <!--
 **tralas85/tralas85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
