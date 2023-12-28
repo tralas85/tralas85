@@ -1,5 +1,6 @@
 ### Hi there 👋
 Este es mi primer repositorio, estoy aprendiendo git y github
+Mi nombre es Jesus Delgado, soy Ingeniero Industrial, un dia descubri Python y me encanto el lenguaje y desde ese dia trato de aprender programación, esperando un día encontrar un trabajo como desarrollador.
 
 <!--
 **tralas85/tralas85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
